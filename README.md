@@ -1,5 +1,5 @@
 # ETL-com-Python-manipulando-massas-de-dados
-Projeto de uma da primeira mentoria do Bootcamp Python Data Analytics da DIO.
+Projeto da primeira mentoria do Bootcamp Python Data Analytics da DIO.
 
 Nesse projeto são manipulados arquivos de dados de assinatura fictícios da Netflix (em Excel) de vários países
 que devem ser lidos e transformados em um único arquivo, sendo adicionados duas colunas de dados extras em cada arquivo.
